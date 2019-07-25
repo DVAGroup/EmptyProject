@@ -1,2 +1,2 @@
-# EmptyProject
-EmptyProject
+# GeneralProject
+GeneralProject
